@@ -1,0 +1,29 @@
+/*color da letra título*/
+.frase{color: rgb(52, 235, 52);}
+
+/*espaçamento da linha*/
+.frase{line-height: 00px;}
+
+/*tamanho fonte*/
+.frase{font-size: 15px;}
+
+/*modificação da cor "saber maior"*/
+.maior{color: red;}
+
+/*modificação do tamanho da fonte "saber maior"*/
+.maior{font-size: 25px;}
+
+/*cor "saber menor"*/
+.menor{color: blue;}
+
+/*tamanho "saber menor"*/
+.menor{font-size: 25px}
+
+/*tamanho fonte "paulo freire"*/
+.nome{font-size: 15px;}
+
+/*modificação da cor "paulo freire"*/
+.nome{color: rgb(52, 235, 52);}
+
+/*modificação espaçamento*/
+.nome{line-height: 0px;}
